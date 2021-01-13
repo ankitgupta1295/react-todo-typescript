@@ -14,7 +14,7 @@ const Todo: React.FC = () => {
 
     return (
         <Wrapper>
-            <input type='number' ref={input} autoFocus />
+            <input type='number' ref={input} autoFocus placeholder='Enter User Id'/>
             <br />
             <button onClick={handleLinkClick} className='link'>Enter</button>
         </Wrapper>
