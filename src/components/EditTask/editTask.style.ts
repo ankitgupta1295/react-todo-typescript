@@ -7,7 +7,7 @@ export const Wrapper = styled.div`
         boder:none;
         box-shadow: 0px 4px 8px 0px rgba(0,0,0,0.2);    
         padding:10px;
-        width:65%;
+        width:60%;
     }
 
     >button{
